@@ -1,0 +1,34 @@
+{
+    "employees": [
+      {
+        "id": "dae3",
+        "name": "GAURAV",
+        "last_name": "DESAI",
+        "email": "akash.desai3105@gmail.com",
+        "amount": "08976",
+        "department": "Tech",
+        "date": "2024-01-13",
+        "userID": ""
+      },
+      {
+        "id": "0c35",
+        "name": "GAURAV",
+        "last_name": "DESAI",
+        "email": "akash.desai3105@gmail.com",
+        "amount": "0786",
+        "department": "Operations",
+        "date": "2024-01-19",
+        "userID": ""
+      },
+      {
+        "id": "5485",
+        "name": "Akash",
+        "last_name": "DESAI",
+        "email": "akash.desai3105@gmail.com",
+        "amount": "090876",
+        "department": "Tech",
+        "date": "2024-01-30",
+        "userID": ""
+      }
+    ]
+  }
